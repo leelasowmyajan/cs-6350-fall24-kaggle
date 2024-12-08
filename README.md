@@ -9,6 +9,7 @@ This repository contains the work completed for the Kaggle Competition **ML2024F
 ### Final Notebook and Output
 - **`IncomePred-Final.ipynb`**: The final notebook containing the implementation of Random Forest and XGBoost models. Based on the results, XGBoost was selected as the better-performing model.
 - **`submission_xgb_final.csv`**: The final output file submitted to Kaggle, generated using the XGBoost model.
+- **`ExperimentalResults/`**: The folder containing all the plots generated to analyze the results.
 
 ### Mid-Term Work
 - **`IncomePred-MidTerm.ipynb`**: The notebook created during the mid-term phase, where baseline models were implemented using Logistic Regression and Decision Tree.
